@@ -5,6 +5,7 @@ uWell is a social media application with a theme of general wellness and life en
 
 Looking for some inspiration? Like many social media platforms, uWell features a friendship system; users can search for other users and add them as Friends. They can then see their Friends' Effort posts in a single feed. uWell also leverages the power of the Eventbrite API, enabling users to search by category and location to find more opportunities to apply their Efforts. <br/>
 
+![Trivia pic](https://github.com/singmokjai/uWell/blob/master/public/styles/images/uwell.PNG)
 
 **Deployed site**:<br/>
 https://uwell.herokuapp.com/
